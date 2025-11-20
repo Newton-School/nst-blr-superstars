@@ -1,0 +1,18 @@
+{
+  "username": "luvyarana",
+  "name": "Luvya Rana",
+  "email": "luvyaprana@gmail.com",
+  "bio": "loves astronomy",
+  "location": "Bangalore, India",
+  "favoriteColor": "white(represents peace)",
+  "favoriteGame": "suggest me some",
+  "hobbies": "reading articles on astronomy, playing around with html, sky gazing, drumming , playing football and badminton",
+  "superpower": "having access to the dev club😎",
+  "favoriteSnack": "Nachos with extra cheese, popcorn, pani puri",
+  "funFact": "i assembled and professional 8 inch refractor telescope in 8 th standard and discovered 2 minor astroids with it",
+  "customization": {
+    "backgroundColor": "coral",
+    "backgroundImage": "",
+    "profileImage": "https://avatars.githubusercontent.com/u/227275931?v=4"
+  }
+}
